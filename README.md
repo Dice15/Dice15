@@ -1,4 +1,4 @@
-### 👋 Jeonghun Moon 👋
+### 👋 Jeonghun 👋
 </br>
 
 <!--
