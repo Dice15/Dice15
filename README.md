@@ -1,7 +1,4 @@
 ### 👋 Jeonghun 👋
-</br>
-
-
 * Email: java_script@kakao.com</br>
 * Blog: https://blog.naver.com/jqkt15
 </br>
@@ -22,6 +19,7 @@
 
 ### 🌱 Algorithm 🌱
 </br>
+Boj Diamond4
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=97mjh1012)](https://solved.ac/97mjh1012)
 
