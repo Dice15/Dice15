@@ -2,8 +2,9 @@
 </br>
 
 
+* Email: java_script@kakao.com</br>
 * Blog: https://blog.naver.com/jqkt15
-* Email: java_script@kakao.com
+</br>
 
 
 <!--
