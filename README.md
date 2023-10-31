@@ -1,6 +1,11 @@
 ### 👋 Jeonghun 👋
 </br>
 
+
+* Blog: https://blog.naver.com/jqkt15
+* Email: java_script@kakao.com
+
+
 <!--
 **Dice15/Dice15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
