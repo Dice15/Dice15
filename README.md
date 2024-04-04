@@ -70,6 +70,9 @@
 |2012 ~ 2013|게임|스타크래프트2|마스터 티어|
 |2009 ~ 2011|음악|피아노|Resolver, Croatian Rhapsody, Beethoven Virus Jazz|
 
+</br>
+
+![Profile views](https://komarev.com/ghpvc/?username=dice15&color=green)
 <!--
 **Dice15/Dice15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
