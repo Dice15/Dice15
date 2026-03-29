@@ -11,9 +11,15 @@
 
 ---
 
-### 🎉 수상경력 🎉
+### 🎉 수상 및 논문 🎉
 ||대회명|주최기관|역할|상격|
 |-------|-----|-----|-----|-----|
+|2026-03   |Practical Fuzzy PSI for High-Dimensional Vectors|논문 작성 중...|
+|2026-03   |Sparse Meta-BTS: Bootstrapping for Sparsely Packed Ciphertext|논문 작성 중...|
+|2025-08   |Bootstrapping for approximate homomorphic encryption based on Microsoft SEAL|SW 국가 R&D 성과물 등록 및 특허 등록|
+|2025-05   |Secure Pattern Matching on Non-Binary Data using Homomorphic Encryption|정보보호학회 논문 투고|
+|2025-03   |Secure Pattern Matching on Non-Binary Data using Homomorphic Encryption|대한수학회 발표|
+|2024-06   |양자 내성 암호인 동형암호를 활용한 만성 신장 질환 검진 프로그램|SW 국가 R&D 성과물 등록 및 특허 등록|
 |2024-01-23|서울 지역사회공헌 캡스톤디자인 Fair|서울특별시|팀장|우수상(의장상), 혁신상(회장상)|
 |2023-12-15|겨울 ICIP & 캡스톤디자인|동국대학교|팀장|우수상(원장상)|
 |2019-12-05|창의아이디어 경진대회|동국대학교|팀장|금상|
