@@ -12,7 +12,7 @@
 ---
 
 ### 🎉 수상 및 논문 🎉
-||대회명|주최기관|역할|상격|
+|||주최기관|역할|상격|
 |-------|-----|-----|-----|-----|
 |2026-03   |Practical Fuzzy PSI for High-Dimensional Vectors|ACM CCS|공동 1저자|논문 작성 중...|
 |2026-03   |Sparse Meta-BTS: Bootstrapping for Sparsely Packed Ciphertext|정보보호학회|제1저자|논문 작성 중...|
@@ -33,13 +33,6 @@
 
 </br>
 
-### 📫 자격증 📫
-||시험명|주최기관|점수/급|
-|-------|-----|-----|-----|
-|2023-03-19|코딩역량인증시험, PCCP (Programmers Certified Coding Professional)|(주)그렙, 프로그래머스|Lv5|
-
-</br>
-
 ### 👯 주요활동 👯
 ||활동|장소/기관||
 |-------|-----|-----|-----|
@@ -51,21 +44,18 @@
 
 </br>
 
-### 🛠 SKILL 🛠
-| 분야 | 기술 | 
-|------|-----|
-| 웹 프론트엔드 | ![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white) ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vanilla JS](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)|
-| 웹 백엔드 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| 윈도우 앱 개발 | ![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white) ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat-square&logo=.net&logoColor=white) |
-| 게임 클라이언트 개발 | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
-| 게임 서버 개발 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-02569B?style=flat-square&logo=socket.io&logoColor=white) ![Port Forwarding](https://img.shields.io/badge/Port%20Forwarding-0078D4?style=flat-square) |
+### 📫 자격증 📫
+||시험명|주최기관|점수/급|
+|-------|-----|-----|-----|
+|2023-03-19|코딩역량인증시험, PCCP (Programmers Certified Coding Professional)|(주)그렙, 프로그래머스|Lv5|
 
 </br>
+
 
 ### 😄 취미활동 😄
 ||분야|취미|주요설명|
 |-------|-----|-----|-----|
-|2023 ~ 2024|게임|오버워치2|다이아 티어|
+|2023 ~ 2026|게임|오버워치2|탱커 다이아2, 딜러 다이아3, 힐러 마스터5|
 |2021 ~ 2021|코딩|로스트아크 DPS 시뮬 개발|C# 윈도우앱으로 개발|
 |2021 ~ 2022|게임|로스트아크|일리아칸 레이드(하드) 첫주클|
 |2020 ~ 2021|게임|카트라이더 러쉬 플러스|챌린저 티어(스피드), 챌린저 티어(아이템)|
